@@ -1,3 +1,5 @@
+![Library in Use](blob/assets/images/BB_I2C.jpg?raw=1)
+
 BB_I2C library - Bit-banged I2C master interface over arbitrary digital pins 
 for the Arduino Zero.
 
